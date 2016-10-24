@@ -78,3 +78,5 @@ A book about best web typographic practices.
 
 `responsive` `one page`
 
+## Licence
+[CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
