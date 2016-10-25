@@ -41,6 +41,12 @@ A book about web typography.
 
 `responsive`
 
+### From Papyrus to Pixels, The Economist, 2014 [en]
+A book about the future of the book.  
+[http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault](http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault)
+
+`responsive` `audio version` `skeuomorphism`
+
 ### Le design des programmes, Anthony Masure, 2014 [fr]
 Doctoral thesis of Anthony Masure.  
 [http://www.softphd.com/](http://www.softphd.com/)
