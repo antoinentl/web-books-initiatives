@@ -29,6 +29,12 @@ A book about (practical) typography.
 
 `responsive`
 
+### High Performance Browser Networking, Ilya Grigorik, 2013 [en]
+A book about browser performance.  
+[https://hpbn.co/](https://hpbn.co/)
+
+`responsive` `offline readable` `Progressive Web Application`
+
 ### The Elements of Typographic Style Applied to the Web, Richard Rutter, 2014 [en]
 A book about web typography.  
 [http://webtypography.net/](http://webtypography.net/)
