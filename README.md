@@ -3,7 +3,7 @@
 A list of different initiatives of *web books*, listed chronologically (creation dates).
 
 ## Definition of the web book concept
-A web book is a book readable in a browser: a collection of organised documents, structured in parts (like chapters), with some navigation tools (like a table of contents or TOC), readable on the web. There are different levels of technological efficiency: mobile friendly (aka *responsive*), offline readable, <abbr title="Progressive Web Application">PWA</abbr>, etc.
+A web book is a book readable in a browser: a collection of organised documents, structured in parts (like chapters), with some navigation tools (like a table of contents or TOC), readable on the web. There are different levels of technological efficiency: mobile friendly (aka *responsive*), offline readable, Progressive Web Application (PWA), etc.
 
 ## Documentation
 Behind this list, a french article about the *web book* concept: [Le livre web, une autre forme du livre numérique](https://www.quaternum.net//2016/10/24/le-livre-web-une-autre-forme-du-livre-numerique/) by Antoine Fauchié, october 24th 2016.
