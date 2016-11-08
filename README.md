@@ -59,6 +59,12 @@ A book about web typography.
 
 `responsive` `offline readable` `Progressive Web Application`
 
+### Adaptive Web Design, First Edition, Aaron Gustafson, 2011 [en]
+A book about the progressive enhancement philosophy.  
+[https://adaptivewebdesign.info/1st-edition/read/](https://adaptivewebdesign.info/1st-edition/read/)
+
+`responsive` `offline readable` `Progressive Web Application`
+
 ### Atomic Design, Brad Frost, 2015 [en]
 A book about *atomic design*, a process of design from Brad Frost.  
 [http://atomicdesign.bradfrost.com/](http://atomicdesign.bradfrost.com/)
