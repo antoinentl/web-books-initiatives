@@ -91,8 +91,9 @@ A book about best web typographic practices.
 `responsive` `one page`
 
 ### MaintainableCSS, Adam Silver, 2016 [en]
-A book about writing modular, scalable, and maintainable CSS.
-[http://maintainablecss.com/]
+A book about writing modular, scalable, and maintainable CSS.  
+[http://maintainablecss.com/](http://maintainablecss.com/)
+
 `responsive`
 
 ## Licence
