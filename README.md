@@ -11,6 +11,12 @@ Behind this list, a french article about the *web book* concept: [Le livre web, 
 
 ## List of web book initiatives
 
+### Adaptive Web Design, First Edition, Aaron Gustafson, 2011 [en]
+A book about the progressive enhancement philosophy.  
+[https://adaptivewebdesign.info/1st-edition/read/](https://adaptivewebdesign.info/1st-edition/read/)
+
+`responsive` `offline readable` `Progressive Web Application`
+
 ### HTML5 For Web Designers, Jeremy Keith, 2011 [en]
 A book about HTML5.  
 [https://html5forwebdesigners.com/](https://html5forwebdesigners.com/)
@@ -56,12 +62,6 @@ Doctoral thesis of Anthony Masure.
 ### Professional Web Typography, Donny Truong, 2015 [en]
 A book about web typography.  
 [https://prowebtype.com/](https://prowebtype.com/)
-
-`responsive` `offline readable` `Progressive Web Application`
-
-### Adaptive Web Design, First Edition, Aaron Gustafson, 2011 [en]
-A book about the progressive enhancement philosophy.  
-[https://adaptivewebdesign.info/1st-edition/read/](https://adaptivewebdesign.info/1st-edition/read/)
 
 `responsive` `offline readable` `Progressive Web Application`
 
