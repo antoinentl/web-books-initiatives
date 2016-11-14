@@ -21,6 +21,8 @@ A book about the progressive enhancement philosophy.
 A book about HTML5.  
 [https://html5forwebdesigners.com/](https://html5forwebdesigners.com/)
 
+[Informations about the project](https://adactio.com/journal/10754)
+
 `responsive` `offline readable` `Progressive Web Application`
 
 ### The Shape of Design, Frank Chimero, 2012 [en]
@@ -81,8 +83,9 @@ A book about how to build a startup.
 A book about ebook history.  
 [https://www.010101book.net/fr/](https://www.010101book.net/fr/)
 
-`responsive` `offline readable`
+[Informations about the project](https://www.quaternum.net/2015/10/26/creation-d-un-livre-web-le-livre-010101/)
 
+`responsive` `offline readable`
 
 ### Vietnamese typography, Donny Truong, 2016 [en]
 A book about vietnamese typography.  
