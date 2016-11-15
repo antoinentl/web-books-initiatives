@@ -31,17 +31,25 @@ A book about design.
 
 `responsive`
 
-### Practical Typography, Matthew Butterick, 2013 [en]
-A book about (practical) typography.  
-[http://practicaltypography.com/](http://practicaltypography.com/)
+### Getting Started With MailChimp, MailChimp, 2013 [en]
+A guide about MailChimp, the email marketing service.  
+[https://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/](https://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/)
 
-`responsive`
+MailChimp makes available a series of guides, they are all web books: [https://mailchimp.com/resources/guides/](https://mailchimp.com/resources/guides/)
+
+`responsive` `one page`
 
 ### High Performance Browser Networking, Ilya Grigorik, 2013 [en]
 A book about browser performance.  
 [https://hpbn.co/](https://hpbn.co/)
 
 `responsive` `offline readable` `Progressive Web Application`
+
+### Practical Typography, Matthew Butterick, 2013 [en]
+A book about (practical) typography.  
+[http://practicaltypography.com/](http://practicaltypography.com/)
+
+`responsive`
 
 ### The Elements of Typographic Style Applied to the Web, Richard Rutter, 2014 [en]
 A book about web typography.  
@@ -61,23 +69,17 @@ Doctoral thesis of Anthony Masure.
 
 `responsive`
 
-### Professional Web Typography, Donny Truong, 2015 [en]
-A book about web typography.  
-[https://prowebtype.com/](https://prowebtype.com/)
+### Atom Flight Manual, Atom, 2015 [en]
+A guide about the text/code editor Atom.io.  
+[http://flight-manual.atom.io/](http://flight-manual.atom.io/)
 
-`responsive` `offline readable` `Progressive Web Application`
+`modifications open`
 
 ### Atomic Design, Brad Frost, 2015 [en]
 A book about *atomic design*, a process of design from Brad Frost.  
 [http://atomicdesign.bradfrost.com/](http://atomicdesign.bradfrost.com/)
 
 `responsive` `modifications open`
-
-### Startup Playbook, Sam Altman, 2015 [en]
-A book about how to build a startup.  
-[http://playbook.samaltman.com/](http://playbook.samaltman.com/)
-
-`responsive`
 
 ### Le livre 010101, Marie Lebert, 2015 [fr]
 A book about ebook history.  
@@ -87,11 +89,23 @@ A book about ebook history.
 
 `responsive` `offline readable`
 
-### Vietnamese typography, Donny Truong, 2016 [en]
-A book about vietnamese typography.  
-[https://vietnamesetypography.com/](https://vietnamesetypography.com/)
+### Professional Web Typography, Donny Truong, 2015 [en]
+A book about web typography.  
+[https://prowebtype.com/](https://prowebtype.com/)
 
-`responsive` `offline readable`
+`responsive` `offline readable` `Progressive Web Application`
+
+### Startup Playbook, Sam Altman, 2015 [en]
+A book about how to build a startup.  
+[http://playbook.samaltman.com/](http://playbook.samaltman.com/)
+
+`responsive`
+
+### MaintainableCSS, Adam Silver, 2016 [en]
+A book about writing modular, scalable, and maintainable CSS.  
+[http://maintainablecss.com/](http://maintainablecss.com/)
+
+`responsive`
 
 ### Typography Handbook, Kenneth Wang, 2016 [en]
 A book about best web typographic practices.  
@@ -99,11 +113,11 @@ A book about best web typographic practices.
 
 `responsive` `one page`
 
-### MaintainableCSS, Adam Silver, 2016 [en]
-A book about writing modular, scalable, and maintainable CSS.  
-[http://maintainablecss.com/](http://maintainablecss.com/)
+### Vietnamese typography, Donny Truong, 2016 [en]
+A book about vietnamese typography.  
+[https://vietnamesetypography.com/](https://vietnamesetypography.com/)
 
-`responsive`
+`responsive` `offline readable`
 
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
