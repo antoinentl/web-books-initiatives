@@ -119,5 +119,11 @@ A book about vietnamese typography.
 
 `responsive` `offline readable`
 
+### Node.js, Bonnes pratiques pour la programmation JavaScript applicative, universelle et modulaire, Thomas Parisot, 2016 [fr]
+A book about Node.js.  
+[https://oncletom.io/node.js](https://oncletom.io/node.js)
+
+`responsive` `modifications open`
+
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
