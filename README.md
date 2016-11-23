@@ -101,11 +101,26 @@ A book about how to build a startup.
 
 `responsive`
 
+### Introduction to Metadata, Third Edition, Edited by Murtha Baca
+A book about metadata.
+
+[http://www.getty.edu/publications/intrometadata/](http://www.getty.edu/publications/intrometadata/)
+
+[Informations about the Getty Publications' workflow](http://blogs.getty.edu/iris/an-editors-view-of-digital-publishing/)
+
+`responsive`
+
 ### MaintainableCSS, Adam Silver, 2016 [en]
 A book about writing modular, scalable, and maintainable CSS.  
 [http://maintainablecss.com/](http://maintainablecss.com/)
 
 `responsive`
+
+### Node.js, Bonnes pratiques pour la programmation JavaScript applicative, universelle et modulaire, Thomas Parisot, 2016 [fr]
+A book about Node.js.  
+[https://oncletom.io/node.js](https://oncletom.io/node.js)
+
+`responsive` `modifications open`
 
 ### Typography Handbook, Kenneth Wang, 2016 [en]
 A book about best web typographic practices.  
@@ -118,12 +133,6 @@ A book about vietnamese typography.
 [https://vietnamesetypography.com/](https://vietnamesetypography.com/)
 
 `responsive` `offline readable`
-
-### Node.js, Bonnes pratiques pour la programmation JavaScript applicative, universelle et modulaire, Thomas Parisot, 2016 [fr]
-A book about Node.js.  
-[https://oncletom.io/node.js](https://oncletom.io/node.js)
-
-`responsive` `modifications open`
 
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
