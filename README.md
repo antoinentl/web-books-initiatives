@@ -134,6 +134,8 @@ Digitization of a Lego manual by [Thomas Gasc](https://methylbro.fr/).
 
 [Informations about the project](https://methylbro.fr/aventure/sudweb-2016-les-valeurs-de-lego/).
 
+`responsive` `one page` `digitization`
+
 ### Vietnamese typography, Donny Truong, 2016 [en]
 A book about vietnamese typography.  
 [https://vietnamesetypography.com/](https://vietnamesetypography.com/)
