@@ -128,6 +128,12 @@ A book about best web typographic practices.
 
 `responsive` `one page`
 
+### Un petit livre à l'usage des parents, pour mieux comprendre leurs enfants à travers les jeux., De la part de Lego, 2016 [fr]
+Digitization of a Lego manual by [Thomas Gasc](https://methylbro.fr/).  
+[http://lego.methylbro.fr/](http://lego.methylbro.fr/)
+
+[Informations about the project](https://methylbro.fr/aventure/sudweb-2016-les-valeurs-de-lego/).
+
 ### Vietnamese typography, Donny Truong, 2016 [en]
 A book about vietnamese typography.  
 [https://vietnamesetypography.com/](https://vietnamesetypography.com/)
