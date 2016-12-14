@@ -11,6 +11,12 @@ Behind this list, a french article about the *web book* concept: [Le livre web, 
 
 ## List of web book initiatives
 
+### Resilient Web Design, Jeremy Keith, 2016 [en]
+A book about the history of web design.  
+[https://resilientwebdesign.com/](https://resilientwebdesign.com/)
+
+`responsive` `audio version` `offline readable` `Progressive Web Application`
+
 ### HTML5 For Web Designers, Jeremy Keith, 2011 [en]
 A book about HTML5.  
 [https://html5forwebdesigners.com/](https://html5forwebdesigners.com/)
