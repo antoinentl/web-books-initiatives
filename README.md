@@ -79,6 +79,8 @@ A guide about the text/code editor Atom.io.
 A book about *atomic design*, a process of design from Brad Frost.  
 [http://atomicdesign.bradfrost.com/](http://atomicdesign.bradfrost.com/)
 
+[Repository](https://github.com/bradfrost/atomic-design).
+
 `responsive` `modifications open`
 
 ### Le livre 010101, Marie Lebert, 2015 [fr]
@@ -101,7 +103,7 @@ A book about how to build a startup.
 
 `responsive`
 
-### Introduction to Metadata, Third Edition, Edited by Murtha Baca
+### Introduction to Metadata, Third Edition, Edited by Murtha Baca, 2016 [en]
 A book about metadata.
 
 [http://www.getty.edu/publications/intrometadata/](http://www.getty.edu/publications/intrometadata/)
@@ -126,9 +128,9 @@ A book about Node.js.
 A book about web design.  
 [https://resilientwebdesign.com/](https://resilientwebdesign.com/)
 
-[Informations about the project](https://adactio.com/journal/11608).
+[Informations about the project](https://adactio.com/journal/11608), [source files](https://github.com/adactio/resilientwebdesign).
 
-`responsive` `offline readable` `Progressive Web Application`
+`responsive` `offline readable` `Progressive Web Application` `modifications open`
 
 ### Typography Handbook, Kenneth Wang, 2016 [en]
 A book about best web typographic practices.  
