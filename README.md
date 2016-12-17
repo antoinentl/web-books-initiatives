@@ -51,21 +51,29 @@ A book about (practical) typography.
 
 `responsive`
 
-### The Elements of Typographic Style Applied to the Web, Richard Rutter, 2014 [en]
-A book about web typography.  
-[http://webtypography.net/](http://webtypography.net/)
-
-`responsive`
-
 ### From Papyrus to Pixels, The Economist, 2014 [en]
 A book about the future of the book.  
 [http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault](http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault)
 
 `responsive` `audio version` `skeuomorphism`
 
+### Greek and Roman Political Ideas, Melissa Lane, 2014 [en]
+A book about politic.  
+[https://www.pelicanbooks.com/greek-and-roman-political-ideas](https://www.pelicanbooks.com/greek-and-roman-political-ideas)
+
+Other web books in the Pelican collection: [https://www.pelicanbooks.com/](https://www.pelicanbooks.com/)
+
+`responsive` `paywall`
+
 ### Le design des programmes, Anthony Masure, 2014 [fr]
 Doctoral thesis of Anthony Masure.  
 [http://www.softphd.com/](http://www.softphd.com/)
+
+`responsive`
+
+### The Elements of Typographic Style Applied to the Web, Richard Rutter, 2014 [en]
+A book about web typography.  
+[http://webtypography.net/](http://webtypography.net/)
 
 `responsive`
 
@@ -87,7 +95,7 @@ A book about *atomic design*, a process of design from Brad Frost.
 A book about ebook history.  
 [https://www.010101book.net/fr/](https://www.010101book.net/fr/)
 
-[Informations about the project](https://www.quaternum.net/2015/10/26/creation-d-un-livre-web-le-livre-010101/)
+[Informations about the project](https://www.quaternum.net/2015/10/26/creation-d-un-livre-web-le-livre-010101/), [source files](https://github.com/antoinentl/010101book.net).
 
 `responsive` `offline readable`
 
@@ -104,8 +112,7 @@ A book about how to build a startup.
 `responsive`
 
 ### Introduction to Metadata, Third Edition, Edited by Murtha Baca, 2016 [en]
-A book about metadata.
-
+A book about metadata.  
 [http://www.getty.edu/publications/intrometadata/](http://www.getty.edu/publications/intrometadata/)
 
 [Informations about the Getty Publications' workflow](http://blogs.getty.edu/iris/an-editors-view-of-digital-publishing/)
