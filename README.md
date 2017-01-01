@@ -35,7 +35,7 @@ A book about design.
 A guide about MailChimp, the email marketing service.  
 [https://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/](https://mailchimp.com/resources/guides/getting-started-with-mailchimp/html/)
 
-MailChimp makes available a series of guides, they are all web books: [https://mailchimp.com/resources/guides/](https://mailchimp.com/resources/guides/)
+MailChimp makes available a serie of guides, they are all web books: [https://mailchimp.com/resources/guides/](https://mailchimp.com/resources/guides/)
 
 `responsive` `one page`
 
