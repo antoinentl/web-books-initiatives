@@ -51,6 +51,12 @@ A book about (practical) typography.
 
 `responsive`
 
+### Eloquent JavaScript, Marijn Haverbeke, 2014 [en]
+A book about JavaScript.  
+[http://eloquentjavascript.net/](http://eloquentjavascript.net/)
+
+`responsive`
+
 ### From Papyrus to Pixels, The Economist, 2014 [en]
 A book about the future of the book.  
 [http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault](http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault)
