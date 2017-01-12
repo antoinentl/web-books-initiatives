@@ -3,7 +3,7 @@
 A list of different initiatives of *web books*, listed chronologically (creation dates).
 
 ## Definition of the web book concept
-A web book, or webbook, is a book readable in a browser: a collection of organised documents, structured in parts (like chapters), with some navigation tools (like a table of contents or TOC), readable on the web. There are different levels of technological efficiency: mobile friendly (aka *responsive*), offline readable, Progressive Web Application (PWA), etc.
+A web book, or webbook, is a book readable in a browser: a collection of organised documents, structured in parts (like chapters), with some navigation tools (like a table of contents or TOC), readable on the web and linkable. There are different levels of technological efficiency: mobile friendly (aka *responsive*), offline readable, Progressive Web Application (PWA), etc.
 
 ## Documentation
 Behind this list, a french article about the *web book* concept: [Le livre web, une autre forme du livre numérique](https://www.quaternum.net//2016/10/24/le-livre-web-une-autre-forme-du-livre-numerique/) by Antoine Fauchié, october 24th 2016.
@@ -110,6 +110,14 @@ A book about web typography.
 [https://prowebtype.com/](https://prowebtype.com/)
 
 `responsive` `offline readable` `Progressive Web Application`
+
+### Sass Guidelines, Hugo Giraudel, 2015 [en+fr+...]
+A book about Sass, in many languages.  
+[https://sass-guidelin.es/](https://sass-guidelin.es/)
+
+[Source files](https://github.com/HugoGiraudel/sass-guidelines).
+
+`responsive` `one page` `modifications open`
 
 ### Startup Playbook, Sam Altman, 2015 [en]
 A book about how to build a startup.  
