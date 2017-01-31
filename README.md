@@ -179,5 +179,11 @@ A book about vietnamese typography.
 
 `responsive` `offline readable`
 
+### Site Reliability Engineering, Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy, 2017 [en]
+A book about "Site Reliability Engineering", published by O'Reilly Media.  
+[https://landing.google.com/sre/book.html](https://landing.google.com/sre/book.html)
+
+`responsive`
+
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
