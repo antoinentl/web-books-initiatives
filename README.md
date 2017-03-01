@@ -131,6 +131,14 @@ A book about how to build a startup.
 
 `responsive`
 
+### Designing for Performance, Lara Callender Hogan, 2016 [en]
+A book about design and performance.  
+[http://designingforperformance.com/](http://designingforperformance.com/)
+
+[An article about the book's design process](http://larahogan.me/blog/coding-a-book/).
+
+`responsive`
+
 ### Introduction to Metadata, Third Edition, Edited by Murtha Baca, 2016 [en]
 A book about metadata.  
 [http://www.getty.edu/publications/intrometadata/](http://www.getty.edu/publications/intrometadata/)
