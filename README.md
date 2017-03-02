@@ -193,5 +193,12 @@ A book about "Site Reliability Engineering", published by O'Reilly Media.
 
 `responsive`
 
+### Web Push Book, Matt Gaunt, 2017 [en]
+A book about web push notifications.  
+[https://web-push-book.gauntface.com/](https://web-push-book.gauntface.com/)
+
+`responsive` `modifications open`
+
+
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
