@@ -187,6 +187,12 @@ A book about vietnamese typography.
 
 `responsive` `offline readable`
 
+### Seeing Theory, A visual introduction to probability and statistics, Daniel Kunin, 2017 [en]
+A book about statistics and design.  
+[http://students.brown.edu/seeing-theory/](http://students.brown.edu/seeing-theory/)
+
+`interactive` `modifications open`
+
 ### Site Reliability Engineering, Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy, 2017 [en]
 A book about "Site Reliability Engineering", published by O'Reilly Media.  
 [https://landing.google.com/sre/book.html](https://landing.google.com/sre/book.html)
