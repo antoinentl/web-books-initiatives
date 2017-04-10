@@ -51,6 +51,12 @@ A book about (practical) typography.
 
 `responsive`
 
+### Designing for the Web, Mark Boulton, 2014 [en]
+A book about web design, or *designing for the web*.  
+[http://designingfortheweb.co.uk/](http://designingfortheweb.co.uk/)
+
+`responsive` `EPUB`
+
 ### Eloquent JavaScript, Marijn Haverbeke, 2014 [en]
 A book about JavaScript.  
 [http://eloquentjavascript.net/](http://eloquentjavascript.net/)
@@ -165,7 +171,7 @@ A book about web design.
 
 [Informations about the project](https://adactio.com/journal/11608), [source files](https://github.com/adactio/resilientwebdesign).
 
-`responsive` `offline readable` `Progressive Web Application` `modifications open`
+`responsive` `offline readable` `Progressive Web Application` `modifications open` `EPUB`
 
 ### Typography Handbook, Kenneth Wang, 2016 [en]
 A book about best web typographic practices.  
