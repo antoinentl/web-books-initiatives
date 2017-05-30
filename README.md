@@ -193,6 +193,14 @@ A book about vietnamese typography.
 
 `responsive` `offline readable`
 
+### Programming Design Systems, Rune Madsen
+A book about "the new foundations of graphic design".  
+[https://programmingdesignsystems.com/](https://programmingdesignsystems.com/)
+
+[Source files](https://github.com/runemadsen/programmingdesignsystems.com)
+
+`responsive` `modifications open`
+
 ### Seeing Theory, A visual introduction to probability and statistics, Daniel Kunin, 2017 [en]
 A book about statistics and design.  
 [http://students.brown.edu/seeing-theory/](http://students.brown.edu/seeing-theory/)
