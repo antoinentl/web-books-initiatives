@@ -219,6 +219,47 @@ A book about web push notifications.
 
 `responsive` `modifications open`
 
+### The Economy
+A book about economics, build with [the Electric Book Workflow](https://electricbookworks.github.io/electric-book/).  
+[https://core-econ.org/the-economy/](https://core-econ.org/the-economy/)
+
+`responsive` `modular`
+
+### A Trilingual Manuscript of the New Testament in Digital Research, Sara Schulthess, HumaReC, 2018 [en]
+A book about Humanities research.  
+[https://humarec.org/webbook/book/](https://humarec.org/webbook/book/)
+
+`responsive` `versioned`
+
+### Mythologies postphotographiques, Servanne Monjour, Parcours numériques, 2018 [fr]
+A book about "post-photographic mythologies" (in the [Parcours numériques collection](http://www.parcoursnumeriques-pum.ca)).  
+[http://www.parcoursnumeriques-pum.ca/introduction-158](http://www.parcoursnumeriques-pum.ca/introduction-158)
+
+`multimodal`
+
+### The First Six Books of The Elements of Euclid With Coloured Diagrams and Symbols, Oliver Byrne, Nicholas Rougeux, 2018 [en]
+A book about mathematics.  
+[https://c82.net/euclid/](https://c82.net/euclid/)
+
+`responsive` `reprinting` `digitization`
+
+### New Deal Photography: The Works of Dorothea Lange and Walker Evans, Judith Keller, Getty Publications, 2019 [en]
+A starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework developed by Getty Publications.  
+[https://gettypubs.github.io/quire-starter/](https://gettypubs.github.io/quire-starter/)
+
+`responsive` `modular` `multimodal`
+
+### An In-Depth Study of Google Translate for 103 Languages, Martin Benjamin, 2019 [en]
+"An In-Depth Study of Google Translate for 103 Languages".  
+[https://www.teachyoubackwards.com/](https://www.teachyoubackwards.com/)
+
+`responsive` `blog base`
+
+### La social-démocratie est une chanson à boire, Otto Borg, Abrüpt, 2019 [fr]
+A book about social democracy?  
+[https://txt.abrupt.ch/antilivre/abrupt_borg_otto_la_social-democratie_est_une_chanson_a_boire_antilivre_dynamique.html](https://txt.abrupt.ch/antilivre/abrupt_borg_otto_la_social-democratie_est_une_chanson_a_boire_antilivre_dynamique.html)
+
+`responsive` `single HTML file`
 
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
