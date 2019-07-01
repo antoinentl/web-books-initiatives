@@ -261,5 +261,11 @@ A book about social democracy?
 
 `responsive` `single HTML file`
 
+### Idiosyncracies of the HTML parser, Simon Pieters, 2019 [en]
+A book about the HTML parser.  
+[https://htmlparser.info/](https://htmlparser.info/)
+
+`responsive` `modifications open`
+
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
