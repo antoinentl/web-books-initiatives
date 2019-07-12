@@ -267,5 +267,11 @@ A book about the HTML parser.
 
 `responsive` `modifications open`
 
+### Why Cryptocurrencies? Jonas Hietala, 2019 [en]
+A book about cryptocurrency, made with [Pollen](https://docs.racket-lang.org/pollen/).  
+[https://whycryptocurrencies.com/](https://whycryptocurrencies.com/)
+
+`responsive` `modifications open`
+
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
