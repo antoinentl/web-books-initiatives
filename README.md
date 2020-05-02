@@ -273,5 +273,13 @@ A book about cryptocurrency, made with [Pollen](https://docs.racket-lang.org/pol
 
 `responsive` `modifications open`
 
+### Exigeons de meilleures bibliothèques, David R. Lankes, 2019 [fr]
+A book about librairies made by Atelier [sens public] and with Markdown, Pandoc and other programs.  
+[https://ateliers.sens-public.org/exigeons-de-meilleures-bibliotheques/index.html](https://ateliers.sens-public.org/exigeons-de-meilleures-bibliotheques/index.html)
+
+[Source files](https://framagit.org/ateliers/lankes/)
+
+`responsive` `versioned` `multimodal`
+
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
