@@ -281,5 +281,11 @@ A book about librairies made by Atelier [sens public] and with Markdown, Pandoc 
 
 `responsive` `versioned` `multimodal`
 
+### Ise-ji: Walk With Me, Craig Mod, 2020 [en]
+A book about a walk in Japan and landscape photography.  
+[https://walkkumano.com/iseji/](https://walkkumano.com/iseji/)
+
+`one page` `responsive`
+
 ## Licence
 [CC BY-SA](http://choosealicense.com/licenses/cc-by-sa-4.0/)
